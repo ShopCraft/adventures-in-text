@@ -1,5 +1,5 @@
 '''
-Map Game Data. Descriptions of the locations in the game world. 
+Map Game Data. Descriptions of the locations in the game world (metro stations).
 '''
 import requests, json
 

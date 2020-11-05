@@ -1,3 +1,4 @@
+# Standard Definitions 
 #! python3 
 
 DESC = 'desc'
@@ -15,3 +16,4 @@ LONGDESC = 'longdesc'
 TAKEABLE = 'takeable'
 EDIBLE = 'edible'
 DESCWORDS = 'descwords'
+
